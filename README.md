@@ -1,12 +1,6 @@
 # happyChain
 happy chain
 
-!!! Pay tribute to Ethereum !!!
-
-Original intention: the game field is monopolized by some giants, and their R & D basically depends on copying, which has not changed from beginning to end. What fire copies what has always been the purpose of these giants, although they do not admit it. It is difficult for small and medium-sized development teams to develop easily in the game market, and players despise this phenomenon. Blockchain technology, a new technology, has been proven over time and has gradually matured. It is an emerging track. Technically, Ethereum has the problems of too low TPS and waste of power. The mechanism is very fair and transparent. As long as these problems of Ethereum are effectively solved, it will be a broad road loved by both players and developers.
-
-Objective: Based on Ethereum code, replace the original POW development algorithm as dpos, a self-developed high TPS game public chain project.
-
 ！！！向以太坊致敬！！！
 
 【初衷】：游戏领域被某些巨头垄断，而这些巨头研发基本靠抄，这一点自始至终未曾改变。
@@ -18,8 +12,28 @@ Objective: Based on Ethereum code, replace the original POW development algorith
 
 【重要】：完美兼容以太坊，Dapp、Dex等生态都可无缝衔接。
 
-【说明】公链需要经过一段时间检验其稳定性和一些潜在的安全问题，所以前期只能向部分合作方开放最新源码，放开运行节点白名单，等后期稳定后即可对所有人开放，请谅解。
+【说明】：公链需要经过一段时间检验其稳定性和一些潜在的安全问题，所以前期只能向部分合作方开放最新源码，放开运行节点白名单，等后期稳定后即可对所有人开放，请谅解。
 申请成为合作方，请联系：service@hld.im
+
+！！！ Pay tribute to Ethereum!!!
+
+
+
+[original intention]: the game field is monopolized by some giants, and their R & D basically depends on copying, which has not changed from beginning to end.
+
+What fire copies what has always been the purpose of these giants, although they do not admit it. It is difficult for small and medium-sized development teams to develop easily in the game market, and players despise this phenomenon.
+
+Blockchain technology, a new technology, has been proven over time and has gradually matured. It is an emerging track. Technically, Ethereum has the problems of too low TPS and waste of power. The mechanism is very fair and transparent.
+
+As long as these problems of Ethereum are effectively solved, it will be a broad road loved by both players and developers.
+
+[Objective]: a self-developed high TPS game public chain project based on Ethereum code and replacing the original POW development algorithm as dpos.
+
+[important]: it is perfectly compatible with Ethereum, and DAPP, DEX and other ecosystems can be seamlessly connected.
+
+[note]: the public chain needs a period of time to test its stability and some potential security problems, so in the early stage, it can only open the latest source code to some partners, release the white list of running nodes, and open it to everyone after it is stable in the later stage. Please understand.
+
+To apply to become a partner, please contact: service@hld.im
 
 Official golang implementation of the Ethereum protocol.
 
