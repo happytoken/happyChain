@@ -1,6 +1,8 @@
 # happyChain
 happy chain
 
+![HappyWallet logo](logo.png?raw=true)
+
 ！！！向以太坊致敬！！！
 
 【初衷】：游戏领域被某些巨头垄断，而这些巨头研发基本靠抄，这一点自始至终未曾改变。
